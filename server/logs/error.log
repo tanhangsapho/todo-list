@@ -58,3 +58,47 @@
 [2024-11-05T08:10:06.117Z] [32minfo[39m: 	[32mMongoDB connected[39m
 [2024-11-05T08:10:06.125Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
 [2024-11-05T08:10:06.132Z] [32minfo[39m: 	[32mServer is listening on port: 8080[39m
+[2024-11-07T07:07:12.572Z] [32minfo[39m: 	[32mMongoDB connected[39m
+[2024-11-07T07:07:12.576Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
+[2024-11-07T07:07:12.578Z] [32minfo[39m: 	[32mServer is listening on port: 8080[39m
+[2024-11-07T07:23:02.529Z] [31merror[39m: 	[31munhandled error[39m
+[2024-11-07T07:23:41.934Z] [32minfo[39m: 	[32mserver closed![39m
+[2024-11-07T07:31:51.460Z] [32minfo[39m: 	[32mMongoDB connected[39m
+[2024-11-07T07:31:51.463Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
+[2024-11-07T07:31:51.466Z] [32minfo[39m: 	[32mServer is listening on port: 8080[39m
+[2024-11-07T07:58:14.288Z] [32minfo[39m: 	[32mMongoDB connected[39m
+[2024-11-07T07:58:14.291Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
+[2024-11-07T07:58:14.293Z] [32minfo[39m: 	[32mServer is listening on port: 8080[39m
+[2024-11-07T08:12:53.227Z] [32minfo[39m: 	[32mMongoDB disconnected[39m
+[2024-11-07T08:12:53.231Z] [31merror[39m: 	[31mInitial MongoDB connection error[39m
+[2024-11-07T08:12:53.236Z] [31merror[39m: 	[31mError in MongoDB connection[39m
+[2024-11-07T08:12:53.237Z] [32minfo[39m: 	[32mServer is listening on port: 8080[39m
+[2024-11-07T08:13:22.865Z] [32minfo[39m: 	[32mMongoDB disconnected[39m
+[2024-11-07T08:13:22.869Z] [31merror[39m: 	[31mInitial MongoDB connection error[39m
+[2024-11-07T08:13:22.873Z] [31merror[39m: 	[31mError in MongoDB connection[39m
+[2024-11-07T08:13:22.874Z] [32minfo[39m: 	[32mServer is listening on port: 8080[39m
+[2024-11-07T08:14:21.184Z] [32minfo[39m: 	[32mMongoDB disconnected[39m
+[2024-11-07T08:14:21.187Z] [31merror[39m: 	[31mInitial MongoDB connection error[39m
+[2024-11-07T08:14:21.190Z] [31merror[39m: 	[31mError in MongoDB connection[39m
+[2024-11-07T08:14:21.190Z] [32minfo[39m: 	[32mServer is listening on port: 8080[39m
+[2024-11-07T08:24:55.726Z] [32minfo[39m: 	[32mMongoDB disconnected[39m
+[2024-11-07T08:24:55.730Z] [31merror[39m: 	[31mInitial MongoDB connection error[39m
+[2024-11-07T08:24:55.733Z] [31merror[39m: 	[31mError in MongoDB connection[39m
+[2024-11-07T08:24:55.734Z] [32minfo[39m: 	[32mServer is listening on port: 8080[39m
+[2024-11-07T08:25:44.220Z] [32minfo[39m: 	[32mMongoDB disconnected[39m
+[2024-11-07T08:25:44.223Z] [31merror[39m: 	[31mInitial MongoDB connection error[39m
+[2024-11-07T08:25:44.226Z] [31merror[39m: 	[31mError in MongoDB connection[39m
+[2024-11-07T08:25:44.226Z] [32minfo[39m: 	[32mServer is listening on port: 8080[39m
+[2024-11-07T08:32:31.312Z] [32minfo[39m: 	[32mMongoDB disconnected[39m
+[2024-11-07T08:32:31.316Z] [31merror[39m: 	[31mInitial MongoDB connection error[39m
+[2024-11-07T08:32:31.319Z] [31merror[39m: 	[31mError in MongoDB connection[39m
+[2024-11-07T08:32:31.320Z] [32minfo[39m: 	[32mServer is listening on port: 8080[39m
+[2024-11-07T09:44:56.094Z] [32minfo[39m: 	[32mMongoDB connected[39m
+[2024-11-07T09:44:56.097Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
+[2024-11-07T09:44:56.100Z] [32minfo[39m: 	[32mServer is listening on port: 8080[39m
+[2024-11-07T13:20:08.924Z] [32minfo[39m: 	[32mMongoDB connected[39m
+[2024-11-07T13:20:08.930Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
+[2024-11-07T13:20:08.937Z] [32minfo[39m: 	[32mServer is listening on port: 8080[39m
+[2024-11-07T13:21:21.141Z] [32minfo[39m: 	[32mMongoDB connected[39m
+[2024-11-07T13:21:21.148Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
+[2024-11-07T13:21:21.155Z] [32minfo[39m: 	[32mServer is listening on port: 8080[39m
