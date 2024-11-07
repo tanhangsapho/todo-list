@@ -28,7 +28,7 @@ export const TodoItem: React.FC<TodoItemProps> = ({
         <input
           type="checkbox"
           checked={todo.completed}
-          onChange={() => onToggleComplete(todo.id)}
+          onChange={() => todo._id && onToggleComplete(todo._id.toString())}
           className="w-4 h-4 text-green-500 border-gray-400 rounded"
         />
 
@@ -43,7 +43,7 @@ export const TodoItem: React.FC<TodoItemProps> = ({
         <Button
           variant="ghost"
           size="sm"
-          onClick={() => onToggleImportant(todo.id)}
+          onClick={() => todo._id && onToggleImportant(todo._id.toString())}
           className={starButtonClass}
         >
           <Star className="w-4 h-4" />
@@ -52,7 +52,7 @@ export const TodoItem: React.FC<TodoItemProps> = ({
         <Button
           variant="ghost"
           size="sm"
-          onClick={() => onDelete(todo.id)}
+          onClick={() => todo._id && onDelete(todo._id.toString())}
           className="text-red-500 hover:text-red-600"
         >
           <Trash2 className="w-4 h-4" />

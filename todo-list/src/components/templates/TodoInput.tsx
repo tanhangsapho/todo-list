@@ -8,6 +8,7 @@ export const TodoInput: React.FC<TodoInputProps> = ({
   value,
   onChange,
   onSubmit,
+  disabled = false,
 }) => {
   return (
     <Card className="mb-4 shadow-none border-none">
@@ -18,8 +19,9 @@ export const TodoInput: React.FC<TodoInputProps> = ({
           onChange={(e) => onChange(e.target.value)}
           placeholder="Add a task"
           className="flex-1"
+          disabled={disabled}
         />
-        <Button type="submit">
+        <Button type="submit" disabled={disabled}>
           <Plus className="w-4 h-4 mr-2" />
           Add
         </Button>

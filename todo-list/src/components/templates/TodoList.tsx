@@ -23,9 +23,9 @@ export const TodoList: React.FC<TodoListProps> = ({
   return (
     <div className="space-y-2">
       {/* Incomplete Todos */}
-      {incompleteTodos.map((todo) => (
+      {incompleteTodos.map((todo, index) => (
         <TodoItem
-          key={todo.id}
+          key={todo._id || index}
           todo={todo}
           onToggleComplete={onToggleComplete}
           onToggleImportant={onToggleImportant}
@@ -47,7 +47,7 @@ export const TodoList: React.FC<TodoListProps> = ({
             <div className="mt-2 space-y-2">
               {completedTodos.map((todo) => (
                 <TodoItem
-                  key={todo.id}
+                  key={todo._id}
                   todo={todo}
                   onToggleComplete={onToggleComplete}
                   onToggleImportant={onToggleImportant}
